@@ -13,6 +13,8 @@ Spencer and Williams have provided us with raw product data and a repo of their 
 
 ### Technical Assignment - Part One (1 hrs)
 Spencer and Williams are having a sale on Cameras. They would like you create and run a demo script that reduces the price of everything in the camera category by 20% and then round to the lowest full number. They have provided the raw data as products.json . The data should be transformed and sent to algolia in a single script.  
+
+You can run my script by executing ```node transform-post-products.js``` from the cmd. 
   
 ### Technical Assignment - Part Two (2 hrs)
 Our customer Spencer and Williams want to use Personalisation in order to to do this they need to implement **_Algolia Insights_** . They have asked for us to create a demo of the events included in their provided codebase.  
