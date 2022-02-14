@@ -23,8 +23,8 @@ It is imperative that we send clicks and conversion on the result page hit resul
 Spencer and Williams want some guidance on their optimal relevance set up. In the Algolia index that you have uploaded the data and events to, configure the relevance so that when users are searching they are seeing the results that make 
 most sense. 
 
-For this question in particular I think it would be worth having an added conversation with Spencer and Williams to hone in on the optimizations that make most sense. Are they seeking to promote specific products, brands, free shipping? Alternatively, are they looking at cost margin on products and want to promote items with higher margins? Also, it should be noted that Personaliztion's are only avaiable to our Premium plan holders. After checking their account, aka my account ;), it appears that feature isn't available. 
-So, as an alternative I've set up a few baseline relevance essentials. I added 2 searchable attributes brand and catagories. While free shipping was added as option to toggle. All these options were added with the Facets feature under Algolia's Index Configuration. 
+For this question in particular I think it would be worth having an added conversation with Spencer and Williams to hone in on the optimizations that make most sense. Are they seeking to promote specific products, brands, free shipping? Alternatively, are they looking at cost margin on products and want to promote items with higher margins? Also, it should be noted that Personalization's are only available to our Premium plan holders. After checking their account, aka my account ;), it appears that feature isn't available. 
+So, as an alternative I've set up a few baseline relevance essentials. I added 2 searchable attributes brand and categories. While free shipping was added as option to toggle. All these options were added with the Facets feature under Algolia's Index Configuration. 
   
 
 ### Questions (0.5 hrs)
